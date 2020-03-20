@@ -1,0 +1,16 @@
+{
+  "tdop": {
+    "host": "tdop-abcd.abcd.abcd.com.cn",
+    "port": 3306,
+    "username": "tdop",
+    "password": "abcdabcdabcd",
+    "database": "tdop"
+  },
+  "itms": {
+    "host": "itms-abcd.abcd.abcd.com.cn",
+    "port": 3306,
+    "username": "itms-abcd",
+    "password": "abcdabcdabcd",
+    "database": "itms-abcd"
+  }
+}
