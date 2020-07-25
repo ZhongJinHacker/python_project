@@ -1,0 +1,23 @@
+{
+  "fsbasemics": {
+    "host": "xxxxxxx.xxxxxxx.xxxxxxx.com.cn",
+    "port": 3306,
+    "username": "xxxxxxx",
+    "password": "xxxxxxx",
+    "database": "xxxxxxx"
+  },
+  "fsbaseopenoauth": {
+    "host": "xxxxxxx-m.xxxxxxx.xxxxxxx.local",
+    "port": 3306,
+    "username": "xxxxxxx",
+    "password": "xxxxxxx",
+    "database": "xxxxxxx"
+  },
+  "fsbaseuc": {
+    "host": "xxxxxxx-m.xxxxxxx.xxxxxxx.com.cn",
+    "port": 3306,
+    "username": "xxxxxxx",
+    "password": "xxxxxxx",
+    "database": "xxxxxxx"
+  }
+}

@@ -1,16 +1,16 @@
 {
   "tdop": {
-    "host": "tdop-abcd.abcd.abcd.com.abcd",
+    "host": "xxxxxxx.xxxxxxx.xxxxxxx.com.abcd",
     "port": 3306,
-    "username": "tdop",
-    "password": "abcdabcdabcd",
-    "database": "tdop"
+    "username": "xxxxxxx",
+    "password": "xxxxxxx",
+    "database": "xxxxxxx"
   },
   "itms": {
-    "host": "itms-abcd.abcd.abcd.com.abcd",
+    "host": "xxxxxxx.abcd.abcd.com.abcd",
     "port": 3306,
-    "username": "itms-abcd",
-    "password": "abcdabcdabcd",
-    "database": "itms-abcd"
+    "username": "xxxxxxx",
+    "password": "xxxxxxx",
+    "database": "xxxxxxx"
   }
 }
